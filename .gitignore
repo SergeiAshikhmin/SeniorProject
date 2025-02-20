@@ -1,3 +1,10 @@
 # IntelliJ IDEA
 .idea/
 *.iml
+
+# Ignore VS Code settings and workspace state
+.vscode/
+
+# Ignore VS Code extensions and debug logs
+*.code-workspace
+*.vsix
